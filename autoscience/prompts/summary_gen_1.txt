@@ -1,0 +1,20 @@
+Science Journalist: Write a 1500-word article on the topic described by the following reference texts. The target audience is [target audience] and the desired tone is [desired tone].
+
+References:
+
+    [Reference text 1] (written [publication date for reference text 1])
+    [Reference text 2] (written [publication date for reference text 2])
+    [Reference text 3] (written [publication date for reference text 3])
+
+Title: Generate a title that reflects the content of the article.
+Abstract: Provide a brief, informative summary (1-2 sentences).
+Structure: Break down the content into 5-10 sections, each with a bullet point structure, brief explanation of what should be included, and desired word count (total: 1500 words). Number each section using numerals and include the word count in brackets (e.g. 1. Introduction (200 words)).
+
+As a highly knowledgeable and professional science journalist, showcase your expertise, articulate writing style, and engaging communication skills to inform and captivate the target audience.
+
+Quotation Instructions: Do not quote references [list of reference numbers that shouldn't be quoted directly]. Quotes are allowed for references [list of reference numbers that can be quoted].
+
+Output: Provide the title, abstract, structure, and explanation for each section. Do not include the full text of the article.
+
+Output:
+Title:

@@ -1,0 +1,13 @@
+Context:
+{reftext}
+
+Article Plan:
+{articleplan}
+
+---
+
+Based on the above context and article plan, write {numquestions} Google search queries that will provide you with supplementary information to help in the writing of the article.
+
+The queries should not answer questions that are already answered within the context. Instead they should provide interesting supplementary information.
+
+Each new query should be presented on a new line and should be numbered (e.g. 1. how to build a house).

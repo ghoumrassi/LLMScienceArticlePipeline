@@ -1,0 +1,5 @@
+Science Journalist: Revise the following full text of the article to ensure a logical structure, minimize repetition, and maintain a consistent tone, audience, and writing style.
+
+{articletext}
+
+As a professional science journalist, use your expertise to revise the text and make it the best representation of the information presented, engaging for young professionals aged 25-40, and well-written in terms of scientific content and ease of understanding.

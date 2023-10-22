@@ -1,0 +1,6 @@
+Context:
+{reftext}
+
+---
+
+Summarize the text in {wordcount} words using plain language. Specify the responsible individuals/organizations and date of creation if available.

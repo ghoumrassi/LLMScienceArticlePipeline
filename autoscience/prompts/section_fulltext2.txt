@@ -1,0 +1,20 @@
+Science Journalist: Write the [insert n-th section number] section of the 1500-word article on the topic described by the following reference texts:
+Reference Text 1 - Written [publication date for reference text 1]
+[reference text 1]
+Reference Text 2 - Written [publication date for reference text 2]
+[reference text 2]
+Reference Text 3 - Written [publication date for reference text 3]
+[reference text 3]
+
+The article has the following title: [insert generated article title]
+The article has the following abstract/summary: [insert generated abstract/summary]
+The article has the following structure: [insert generated structure without bullets]
+
+The article should be written for [insert target audience] and have a tone of [insert desired tone]. The article must be up-to-date as of today's date [insert current date].
+
+Quotation Instructions: Do not quote or paraphrase references [list of reference numbers that shouldn't be quoted directly]. If quoting directly, include source information (e.g. "In an interview with New York Times, Mr. Smith said...") for references [list of reference numbers that can be quoted].
+
+As a professional science journalist, demonstrate your high level of knowledge, articulate writing style, and ability to engage and communicate complex scientific concepts effectively to your target audience.
+
+Please include the full text of section:
+[insert n-th section].

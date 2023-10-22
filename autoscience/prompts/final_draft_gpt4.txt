@@ -1,0 +1,7 @@
+Article first draft:
+
+{reftext}
+------
+
+Rewrite the above article in an engaging and informative manner. Pay attention to the overall narrative of the piece, make sure you are telling an engaging story. Pay attention to the tone of the article, use a tone that is appropriate given the content.
+(Max {wordcount} words)

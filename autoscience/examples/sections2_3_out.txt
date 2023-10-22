@@ -1,0 +1,50 @@
+Science Journalist: Write the Sections II and III of the 1500-word article on the topic described by the following reference texts:
+Reference Text 1 - Written 1st May 2023
+ "A new biomaterial that can be injected intravenously, reduces inflammation in tissue and promotes cell and tissue repair. Results from a successful phase 1 human clinical trial were reported in fall 2019. By contrast, hydrogel injected via a catheter remains in specific locations and doesn't spread out. The biomaterial bound to those cells, closing the gaps and accelerating healing of the blood vessels, reducing inflammation as a result. Next steps "While the majority of work in this study involved the heart, the possibilities of treating other difficult-to-access organs and tissues can open up the field of biomaterials/tissue engineering into treating new diseases," Spang said. "One major reason we treat severe coronary artery disease and myocardial infarction is to prevent left ventricular dysfunction and progression to congestive heart failure," said Dr. Reeves. "
+
+Reference Text 2 - Written 1st May 2023
+" Ultra-processed foods are an important part of food corporation portfolios because they rely on low cost ingredients and often enjoy higher profit margins.[1] They are designed for broad consumer appeal.[1] While instant noodles are often used as a base carbohydrate in regular meals, many ultra-processed foods are often discretionary foods, for snacking between meals. Ultra-processed foods typically benefit from extended shelf life, an important consideration for lower income consumers without reliable access to refrigeration. More cohort studies on obesity, diabetes, cardiovascular diseases, various types of cancer and other diseases will enable meta-analyses of their association with ultra-processed food intake and estimation of disease-specific pooled relative risks." Independent assessments generally conclude that further research should guide public policies and actions, and not delay them. Such actions should include statutory—including fiscal—measures designed to make unprocessed and less processed food more available and affordable, to encourage consumption of freshly-prepared meals, to eliminate all subsidies and price support schemes that make ultra-processed food artificially cheap, and to regulate and restrict its manufacture and marketing."
+
+Reference Text 3 - Written 17th Aug 2018
+"Doctors have known for some time now that what we eat has a direct effect on our overall health. The body requires specific nutrients to perform its routine tasks. Now, researchers from Imperial College London say eating ultra-processed foods increases a person’s risk for developing all cancers, specifically ovarian and brain cancers. Upon review, the research team found people with higher consumption of ultra-processed foods had a greater risk of developing cancer overall. “Ultra-processed foods may also promote inflammation that could contribute to cancer risk. — Dr. Eszter Vamos Increased breast cancer death risk Researchers also found for every 10% increase in ultra-processed foods in a person’s diet, they raised their breast cancer mortality rate by 16%. Dr. Parvin Peddi, a medical oncologist and director of Breast Medical Oncology for the Margie Petersen Breast Center at Providence Saint John’s Health Center, California, who was not involved in the study, reiterated that breast cancer has a known correlation with people who are overweight as they can have higher levels of estrogen, which promotes risk breast cancer. “We do know that people who have ‘unhealthy habits’ like dietary habits, meaning they eat more fatty or they are overweight, and perhaps now ultra-processed foods, have an increased risk of breast cancer.” Dr. Vasilev was not involved in the study. He said the “old school thought” was that various toxins from food processing, as well as added preservatives, lead to genetic mutationsTrusted Source that cause cancer. “So you do have a proactive ability to modulate which genes are turned on and off in your body. And what influences those, some of it is literally the toxins that accumulate from the preservatives and things like that in ultra-processed foods,” Dr. Vasilev added. Lowering cancer risk through diet So how can people improve their diet to help decrease their cancer risk? “Hence diet is a controllable risk factor that every single one of us can and should take ownership of. “And now we see that breast, ovarian and other cancers may be on that list. If patients are at higher risk of developing any cancer — man or woman — doctors should be jumping up and down about this, as well as familiarizing patients with the other modifiable risk factors for cancer."
+
+The article has the following title: Ultra-Processed Foods Increase Cancer Risk
+The article has the following abstract/summary: A new study finds that a diet high in ultra-processed foods is linked to an increased risk of cancer, particularly ovarian and brain cancer. 
+The article has the following structure:
+I. Introduction (200 words)
+II. What Are Ultra-Processed Foods? (300 words)
+III. How Ultra-Processed Foods Increase Risk for Cancer (300 words)
+IV. Other Modifiable Risk Factors for Cancer (400 words)
+V. Biomaterial Promotes Cell and Tissue Repair (200 words)
+VI. Conclusion (200 words)
+
+The article should be written for technology professionals and enthusiasts and have a tone that is excited, informative, and enthusiastic about scientific progress. The article must be up-to-date as of today's date 2nd May 2023.
+
+Note: reference texts 1 and 2 should not be quoted directly.
+Reference texts 3 may be quoted directly in the article.
+
+As a professional science journalist, demonstrate your high level of knowledge, articulate writing style, and ability to engage and communicate complex scientific concepts effectively to your target audience.
+
+Please include the full text of section II and III, the content should be around 600 words long. 
+
+II. What Are Ultra-Processed Foods? (300 words)
+Explain what ultra-processed foods are, the role they play within food corporations, and their appeal to consumers.
+
+III. How Ultra-Processed Foods Increase Risk for Cancer (300 words)
+Describe the findings of the study, the increased risk of cancer associated with ultra-processed foods, and potential explanations for why this is the case.
+
+---------------------------------------------------------------------------
+
+Output:
+
+II. What Are Ultra-Processed Foods? (300 words)
+Ultra-processed foods are a growing part of the modern food industry. These foods are designed to be appealing to consumers and have extended shelf lives, often relying on low cost ingredients and enjoying higher profit margins than unprocessed foods. Ultra-processed foods can include instant noodles, snacks, and other items that are highly processed. While these foods can be a part of regular meals, they are often used as discretionary snacks between meals. This type of food is particularly appealing to lower income consumers who do not have reliable access to refrigeration.
+
+Ultra-processed foods are a major part of many food corporations' portfolios, as these products often offer higher profit margins than unprocessed foods. These foods are designed to be appealing to a broad consumer base and to have an extended shelf life. As such, ultra-processed foods are often used as a base carbohydrate in regular meals, or as snacks between meals. This type of food is particularly attractive to lower income consumers who do not have reliable access to refrigeration.
+
+III. How Ultra-Processed Foods Increase Risk for Cancer (300 words)
+A recent study conducted by researchers from Imperial College London has found that eating ultra-processed foods increases a person’s risk of developing all types of cancer, especially ovarian and brain cancers. After reviewing a variety of data, the research team found that those with higher consumption of ultra-processed foods had a greater risk of developing cancer overall. It is believed that ultra-processed foods promote inflammation which can contribute to cancer risk.
+
+The study also found that for every 10% increase in ultra-processed foods in a person’s diet, their risk of death from breast cancer increased by 16%. Dr. Parvin Peddi, a medical oncologist and director of Breast Medical Oncology for the Margie Petersen Breast Center at Providence Saint John’s Health Center, California, said that breast cancer has long been linked to unhealthy habits, such as dietary habits and being overweight. Dr. Peddi also stated that ultra-processed foods may contribute to this risk.
+
+It is believed that toxins from food processing and added preservatives in ultra-processed foods lead to genetic mutations which can cause cancer. As such, it is important for people to understand how their dietary choices can affect their risk of developing cancer. Eating a diet low in ultra-processed foods and high in fresh, unprocessed foods can help lower this risk. Additionally, other modifiable risk factors for cancer, such as quitting smoking and maintaining a healthy weight, should also be taken into consideration.

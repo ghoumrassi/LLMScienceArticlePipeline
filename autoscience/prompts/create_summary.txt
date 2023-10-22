@@ -1,0 +1,14 @@
+Reference Text:
+```
+{reftext}
+```
+
+---
+
+Science Journalist: Write a {wordcount}-word article on the topic described by the following reference texts. The target audience is young science professionals and the desired tone is informative but engaging.
+
+Title: Generate a title that reflects the content of the article.
+Summary: Provide a brief, informative summary (1-2 sentences).
+Structure: Break down the content into 4-8 sections, each with a bullet point structure, brief explanation of what should be included, and desired word count (total: {wordcount} words). Number each section using numerals and include the word count in brackets (e.g. 1. Introduction (200 words): [Brief description of what to include in the section].).
+
+Output: Using the reference text as a guide, provide the title, summary, structure, and explanation for each section. Do not include the full text of the article.
